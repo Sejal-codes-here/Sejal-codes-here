@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sejal-codes-here/Sejal-codes-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Sejal 
+*Computer Science (AI & ML) Student • Full Stack Developer • Tech Community Builder*
 
-Here are some ideas to get you started:
+[LinkedIn](www.linkedin.com/in/sejal-sonawane-2407-) • Portfolio *(Coming Soon)* • 
+Email : sejal.codes24@gmail.com
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm a Computer Science student who enjoys turning ideas into real, usable projects.
+
+While college teaches the fundamentals, I spend most of my time exploring web development, solving problems, building projects, and contributing to tech communities. I enjoy learning by creating, whether that's a website, a tool, or an experiment.
+Beyond coding, I believe in sharing what I learn. Over **2,000+ professionals and students** follow my journey on LinkedIn, where I document my learning, projects, and experiences instead of just posting achievements.
+---
+
+### Currently Exploring
+
+🌱 Full Stack Development
+🧠 Data Structures & Algorithms
+🤖 Artificial Intelligence & Machine Learning
+☁️ Modern Development Tools & Workflows
+---
+
+### Tech Toolbox
+**Languages**
+C++ • JavaScript • SQL • HTML • CSS
+
+**Frameworks & Tools**
+Git • GitHub • VS Code • Node.js • Express.js • MongoDB
+---
+
+### What You'll Find Here
+
+* Projects built while learning
+* Experiments with new technologies
+* College and personal work
+* Open-source contributions (coming soon)
+* Continuous improvements over perfection
+---
+
+### Philosophy
+> Learn. Build. Tech. Vision.
+---
+
+### Let's Connect
+
+If you're building something interesting, discussing technology, or simply want to connect with another learner, I'd love to hear from you.
+⭐ If you find any of my repositories useful, consider giving them a star.
+
+</div>
