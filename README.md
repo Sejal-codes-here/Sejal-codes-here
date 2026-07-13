@@ -1,50 +1,70 @@
 <div align="center">
 
-# Hey, I'm Sejal 
-*Computer Science (AI & ML) Student • Full Stack Developer • Tech Community Builder*
+# Hey, I'm Sejal 👋
 
-<h3>[LinkedIn](www.linkedin.com/in/sejal-sonawane-2407-) • Portfolio *(Coming Soon)* • 
-Email : sejal.codes24@gmail.com</h3> 
----
+### Computer Science (AI & ML) Student • Full Stack Developer • Tech Community Builder
 
-### About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sejal-sonawane-2407-)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge)](#)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-sejal.codes24%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sejal.codes24@gmail.com)
 
-<h5>I'm a Computer Science student who enjoys turning ideas into real, usable projects.
-Over **2,000+ professionals and students** follow my journey on LinkedIn, where I document my learning, projects, and experiences instead of just posting achievements.</h5>
----
-
-### Currently Exploring
-<h4>🌱 Full Stack Development 
-🧠 Data Structures & Algorithms 
-🤖 Artificial Intelligence & Machine Learning
-☁️ Modern Development Tools & Workflows</h4>
+</div>
 
 ---
 
-### Tech Toolbox
-**Languages**
-C++ • JavaScript • SQL • HTML • CSS
+## About Me
 
-**Frameworks & Tools**
-<h4> Git • GitHub • VS Code • Node.js • Express.js • MongoDB
+I'm a Computer Science (AI & ML) student passionate about building practical software and continuously improving my skills.
+
+More than **2,000+ students and professionals** follow my journey on LinkedIn, where I share my learning, projects, and experiences—not just achievements.
+
 ---
 
-### What You'll Find Here
+## Currently Exploring
 
-* Projects built while learning
-* Experiments with new technologies
-* College and personal work
-* Open-source contributions (coming soon)
-* Continuous improvements over perfection
+- 🌱 Full Stack Development
+- 🧠 Data Structures & Algorithms
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Modern Development Tools & Workflows
+
 ---
 
-### Philosophy
-> Learn. Build. Tech. Vision.
+## Tech Toolbox
+
+### Languages
+
+`C++` `JavaScript` `SQL` `HTML` `CSS`
+
+### Frameworks & Tools
+
+`Git` `GitHub` `VS Code` `Node.js` `Express.js` `MongoDB`
+
 ---
 
-### Let's Connect
+## What You'll Find Here
 
-If you're building something interesting, discussing technology, or simply want to connect with another learner, I'd love to hear from you.
-⭐ If you find any of my repositories useful, consider giving them a star.
+- 🚀 Projects built while learning
+- 🛠️ Experiments with new technologies
+- 📚 College & personal projects
+- 🌍 Open Source contributions *(coming soon)*
+- 📈 Continuous learning over perfection
+
+---
+
+## Philosophy
+
+> **Learn. Build. Share. Repeat.**
+
+---
+
+<div align="center">
+
+### Thanks for stopping by!
+
+If you like my work, consider ⭐ starring a repository.
+
+Let's connect and build something awesome together.
 
 </div>
