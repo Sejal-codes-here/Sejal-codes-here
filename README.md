@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a Computer Science (AI & ML) student passionate about building practical software and continuously improving my skills.
+I'm a Computer Science (AI & ML) Engineering student passionate about building practical software and continuously improving my skills. 
 More than **2,000+ students and professionals** follow my journey on LinkedIn, where I share my learning, projects, and experiences—not just achievements.
 
 ---
