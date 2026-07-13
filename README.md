@@ -9,8 +9,7 @@ Email : sejal.codes24@gmail.com
 
 ### About Me
 
-I'm a Computer Science student who enjoys turning ideas into real, usable projects.
-
+<h6>I'm a Computer Science student who enjoys turning ideas into real, usable projects.
 While college teaches the fundamentals, I spend most of my time exploring web development, solving problems, building projects, and contributing to tech communities. I enjoy learning by creating, whether that's a website, a tool, or an experiment.
 Beyond coding, I believe in sharing what I learn. Over **2,000+ professionals and students** follow my journey on LinkedIn, where I document my learning, projects, and experiences instead of just posting achievements.
 ---
