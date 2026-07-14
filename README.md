@@ -2,7 +2,7 @@
 
 # Hey, I'm Sejal 👋
 
-### Computer Science (AI & ML) Student • Full Stack Developer • Tech Community Builder
+### Computer Science (AI & ML) Undergrad 29' • GeeksForGeeks Campus Mantri • 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sejal-sonawane-2407-)
 &nbsp;
