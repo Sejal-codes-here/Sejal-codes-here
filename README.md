@@ -34,11 +34,11 @@ More than **2,000+ students and professionals** follow my journey on LinkedIn, w
 
 ### Languages
 
-`C++` `JavaScript` `SQL` `HTML` `CSS`
+`C++` `Python` `JavaScript` `SQL` `HTML5` `CSS3`
 
 ### Frameworks & Tools
 
-`Git` `GitHub` `VS Code` `Node.js` `Express.js` `MongoDB`
+`Node.js` `Express.js` `MongoDB` `Git` `GitHub` `VS Code` 
 
 ---
 
